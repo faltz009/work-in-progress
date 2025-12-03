@@ -1,8 +1,15 @@
-Fine Structure Constant from Geometric Principles
 
-$$\boxed{\alpha = \frac{1}{8 \cdot 2\pi \cdot e}}$$
 
----
+# The Fine Structure Constant
+
+$$\Huge \boxed{\alpha = \frac{1}{8 \cdot 2\pi \cdot e}}$$
+
+$$\alpha \approx \frac{1}{136.621} \approx 0.00732$$
+
+> **Measured value:** α ≈ 1/137.036 ≈ 0.00730
+> 
+> **Match: 99.7%**
+
 
 ## I. Mathematical Axiom
 
@@ -85,7 +92,7 @@ The wavefunction evolution ψ(t) = e^(-iEt/ℏ)ψ(0) is this geometric verificat
 | Source | Value |
 |--------|-------|
 | Measured | α ≈ 1/137.036 |
-| Calculated | 1/(8·2π·e) ≈ 1/136.6 |
+| Calculated | 1/(8·2π·e) ≈ 1/136.621 |
 
 **Match: 99.7% accuracy**
 
