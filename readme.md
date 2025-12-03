@@ -1,4 +1,6 @@
-# Documentation: From Axiom to Fundamental Constants
+Fine Structure Constant from Geometric Principles
+
+$$\boxed{\alpha = \frac{1}{8 \cdot 2\pi \cdot e}}$$
 
 ---
 
