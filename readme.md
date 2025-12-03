@@ -19,8 +19,8 @@ $$\alpha \approx \frac{1}{136.621} \approx 0.00732$$
 
 This is DEFINITIONAL to *e*.
 
-A process applied proportionally to iself at any timescale wields *e*
-it predicts radioactive decay, but also compound interest, mass here is statistical mass, not physical mass.
+A process applied proportionally to iself at any timescale wields *e*.
+It predicts radioactive decay, but also compound interest, mass here is statistical mass, not physical mass.
 This statement is axiomatic to math and geometry.
 
 | Constant | Measures |
