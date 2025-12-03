@@ -9,6 +9,8 @@ $$\alpha \approx \frac{1}{136.621} \approx 0.00732$$
 > **Measured value:** α ≈ 1/137.036 ≈ 0.00730
 > 
 > **Match: 99.7%**
+>
+> While α is often treated as a single value, its effective strength increases with energy in a phenomenon called running coupling, meaning its value is dependent on the energy level of the interaction being considered. This deviation is within expectations.
 
 
 ## I. Mathematical Axiom
